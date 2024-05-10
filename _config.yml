@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-2.png"
+  avatar           : "profile-2.jpg"
   name             : "Matthew Ma"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer with a passion in game development"
