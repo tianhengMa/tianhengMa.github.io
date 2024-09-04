@@ -21,11 +21,11 @@ repository               : "tianhengMa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-2.jpg"
+  avatar           : "profile-3.jpg"
   name             : "Matthew Ma"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer with a passion in game development"
-  location         : "Pleasanton, California"
+  location         : "Alexandria, Virginia"
   employer         : "AppLovin"
   uri              : # URL
   email            : "tianhengmatthew@gmail.com" 
