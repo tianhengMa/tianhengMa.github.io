@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AR Survivor.io Clone"
+excerpt: "A clone of the popular roguelike game Survivor.io with a twist.<br/><img src='/images/AR_SURVIVOR_IO_CLONE_SCREENSHOT_1'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The game is set up in an Augmented Reality environment,
+where player can combat enemies in real life. Features automatic targeting weapons, auto spawning enemies with simple AI, and AR
+controller to move player around in the scene
