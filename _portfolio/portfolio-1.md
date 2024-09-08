@@ -8,5 +8,5 @@ The game is set up in an Augmented Reality environment, where player can combat 
 Features automatic targeting weapons, auto spawning enemies with simple AI, and AR
 controller to move player around in the scene
 
-![alt text](images/AR_SURVIVOR_IO_TN.png "Title")
-[explain](https://www.youtube.com/watch?v=fI0D3IZSMkc "AR Survivor.io Clone Dev Log | Part 1")
+[![AR Survivor.io Clone Dev Log | Part 1](/images/AR_SURVIVOR_IO_TN.png)](https://www.youtube.com/watch?v=fI0D3IZSMkc)
+
