@@ -1,6 +1,6 @@
 ---
 title: "WORDLE!"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/W_Menu.jpg'> height='500' width='300'"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/W_Menu.jpg'> height='500'"
 collection: portfolio
 ---
 
