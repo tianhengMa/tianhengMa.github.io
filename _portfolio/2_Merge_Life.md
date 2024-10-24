@@ -1,6 +1,6 @@
 ---
 title: "Merge Life"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/MLife_Icon.png' height='300' width='300''>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/MLife_Icon.png' height='300' width='300'>"
 collection: portfolio
 ---
 
