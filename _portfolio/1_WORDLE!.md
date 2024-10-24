@@ -7,7 +7,7 @@ collection: portfolio
 WORDLE! is a fun and addictive word puzzle game featuring a variety of exciting game modes and engaging live ops events. It achieved the #1 spot in mobile word games on both the Apple and Google Play stores.
 
 The game modes includes the classic endless six guesses puzzle game, daily puzzles, word fever, secret word, and wordle with friends
-<br/><img src='/images/W_Menu.png' height='500' width='300'>
+![Wordle](/images/W_Icon.png "Wordle Title")
 
 Main responsibilities include:
 
