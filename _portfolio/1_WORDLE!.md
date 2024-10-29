@@ -10,11 +10,11 @@ It achieved the #1 spot in mobile word games on both the Apple and Google Play s
 Our game modes feature the classic endless six-guess puzzle, daily challenges, Word Fever, Secret Word, and WORDLE! with
 Friends. Our live ops events add seasonal and weekly excitement, including a Christmas Advent calendar, holiday-themed story maps, chained offers, balloon races, and crossWORDLE!
 
-![Classic endless puzzle](/images/W_Classic.jpg "Classic endless puzzle")
-![Daily Puzzle](/images/W_Calendar.jpg "Daily Puzzle")
-![Secret Word](/images/W_SW.jpg "Secret Word")
-![Word Fever](/images/W_WF.jpg "Word Fever")
-![Word Fever](/images/W_WF_Meny.jpg "WORDLE! Together")
+![Classic endless puzzle](/images/W_Classic.jpg)
+![Daily Puzzle](/images/W_Calendar.jpg)
+![Secret Word](/images/W_SW.jpg)
+![Word Fever](/images/W_WF.jpg)
+![WORDLE! Together](/images/W_WF_Menu.jpg)
 
 Main responsibilities include:
 
