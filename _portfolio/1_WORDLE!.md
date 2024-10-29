@@ -4,10 +4,17 @@ excerpt: "WORDLE! is a fun word puzzle game with exciting modes and live events,
 collection: portfolio
 ---
 
-WORDLE! is a fun and addictive word puzzle game featuring a variety of exciting game modes and engaging live ops events. It achieved the #1 spot in mobile word games on both the Apple and Google Play stores.
+WORDLE! is a fun and addictive word puzzle game featuring a variety of exciting game modes and engaging live ops events. 
+It achieved the #1 spot in mobile word games on both the Apple and Google Play stores.
 
-The game modes includes the classic endless six guesses puzzle game, daily puzzles, word fever, secret word, and wordle with friends
-![Wordle](/images/W_Icon.png "Wordle Title")
+Our game modes feature the classic endless six-guess puzzle, daily challenges, Word Fever, Secret Word, and WORDLE! with
+Friends. Our live ops events add seasonal and weekly excitement, including a Christmas Advent calendar, holiday-themed story maps, chained offers, balloon races, and crossWORDLE!
+
+![Classic endless puzzle](/images/W_Classic.jpg "Classic endless puzzle")
+![Daily Puzzle](/images/W_Calendar.jpg "Daily Puzzle")
+![Secret Word](/images/W_SW.jpg "Secret Word")
+![Word Fever](/images/W_WF.jpg "Word Fever")
+![Word Fever](/images/W_WF_Meny.jpg "WORDLE! Together")
 
 Main responsibilities include:
 

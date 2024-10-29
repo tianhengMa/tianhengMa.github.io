@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf354fb3-5a8a-491f-b409-bc98009eddd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/MLife_Piggy.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/MLife_Retirement_1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/MLife_Retirement_2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/MLife_Retirement_3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/MLife_Retirement_4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/MLife_Setup.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_BR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_BR_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_CO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Classic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Collection.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Leaderboard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Menu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_SW.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Story.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Story_intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_Together.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_WF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/W_WF_Menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/W_Calendar.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tianhengMa.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tianhengMa.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/AR_Survivor_io_Clone.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/3_AR_Survivor_io_Clone.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/1_WORDLE!.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/2_Merge_Life.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/4_Two_Dots_Clone.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/5_Air_Hockey.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/1_WORDLE!.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/1_WORDLE!.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
