@@ -13,6 +13,7 @@ Here are my main responsibilities in Merge Life:
 - Maintained and continuously developed core merge item features.
 
 Links to Apple Store: [https://apps.apple.com/us/app/merge-life/id1556497052](https://apps.apple.com/us/app/merge-life/id1556497052)
+
 Links to Google Store: [https://play.google.com/store/apps/details?id=cc.lionstudios.mergelife&hl=en_US](https://play.google.com/store/apps/details?id=cc.lionstudios.mergelife&hl=en_US)
 
 ![Merge Board](/images/MLife_MergeBoard.PNG)

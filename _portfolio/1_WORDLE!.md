@@ -18,9 +18,10 @@ Main responsibilities include:
 - Collaborate with cross-functional teams, including engineers, artists, game designers, and product managers, to ensure the delivery of high-quality gameplay experiences for players
 
 Link to Apple Store: [https://apps.apple.com/us/app/wordle/id1095569891](https://apps.apple.com/us/app/wordle/id1095569891)
+
 Link to Google Play Store: [https://play.google.com/store/apps/details?id=com.vottzapps.wordle](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
 
-![Classic endless puzzle](/images/W_Classic.jpg)
+![Classic endless puzzle](/images/W_Classic.jpg height=100)
 ![Daily Puzzle](/images/W_Calendar.jpg)
 ![Secret Word](/images/W_SW.jpg)
 ![Word Fever](/images/W_WF.jpg)
