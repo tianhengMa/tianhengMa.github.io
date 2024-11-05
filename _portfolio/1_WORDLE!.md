@@ -21,11 +21,27 @@ Main responsibilities include:
 
 [<img src='/images/GPC.png' width='200'>](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
 
-<img src='/images/W_Classic.jpg' height='500' width='300'>
-<img src='/images/W_Calendar.jpg' height='500' width='300'>
-<img src='/images/W_SW.jpg' height='500' width='300'>
-<img src='/images/W_WF.jpg' height='500' width='300'>
-<img src='/images/W_WF_Menu.jpg' height='500' width='300'>
+<style>
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+</style>
+
+<div class="scroll-container">
+    <img src='/images/W_Classic.jpg' height='500' width='300'>
+    <img src='/images/W_Calendar.jpg' height='500' width='300'>
+    <img src='/images/W_SW.jpg' height='500' width='300'>
+    <img src='/images/W_WF.jpg' height='500' width='300'>
+    <img src='/images/W_WF_Menu.jpg' height='500' width='300'>
+</div>
+
 
 ![Daily Puzzle](/images/W_Calendar.jpg)
 ![Secret Word](/images/W_SW.jpg)
