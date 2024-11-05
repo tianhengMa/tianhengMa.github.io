@@ -17,6 +17,8 @@ Main responsibilities include:
 - Managed weekly version QA and release processes, ensuring high standards of stability and performance
 - Collaborate with cross-functional teams, including engineers, artists, game designers, and product managers, to ensure the delivery of high-quality gameplay experiences for players
 
+Link to Apple Store: [https://apps.apple.com/us/app/wordle/id1095569891](https://apps.apple.com/us/app/wordle/id1095569891)
+Link to Google Play Store: [https://play.google.com/store/apps/details?id=com.vottzapps.wordle](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
 
 ![Classic endless puzzle](/images/W_Classic.jpg)
 ![Daily Puzzle](/images/W_Calendar.jpg)
