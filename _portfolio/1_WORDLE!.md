@@ -21,7 +21,8 @@ Main responsibilities include:
 
 Link to Google Play Store: [Link](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
 
-![Classic endless puzzle](/images/W_Classic.jpg)
+<p><img src='/images/W_Classic.jpg' width='100'> <img src='/images/W_Classic.jpg' width='100'><p>
+
 ![Daily Puzzle](/images/W_Calendar.jpg)
 ![Secret Word](/images/W_SW.jpg)
 ![Word Fever](/images/W_WF.jpg)
