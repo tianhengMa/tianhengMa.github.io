@@ -12,9 +12,10 @@ Here are my main responsibilities in Merge Life:
 - Developed the Piggy Bank feature, allowing players to accumulate gems and open the bank upon purchase, increasing the game's IAP revenue.
 - Maintained and continuously developed core merge item features.
 
-Links to Apple Store: [https://apps.apple.com/us/app/merge-life/id1556497052](https://apps.apple.com/us/app/merge-life/id1556497052)
+[<img src='/images/AppStore.png' width='200'>](https://apps.apple.com/us/app/merge-life/id1556497052)
 
-Links to Google Store: [https://play.google.com/store/apps/details?id=cc.lionstudios.mergelife&hl=en_US](https://play.google.com/store/apps/details?id=cc.lionstudios.mergelife&hl=en_US)
+[<img src='/images/GPC.png' width='200'>](https://play.google.com/store/apps/details?id=cc.lionstudios.mergelife&hl=en_US)
+
 
 ![Merge Board](/images/MLife_MergeBoard.PNG)
 ![Character](/images/MLife_Setup.PNG)

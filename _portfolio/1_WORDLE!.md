@@ -17,11 +17,15 @@ Main responsibilities include:
 - Managed weekly version QA and release processes, ensuring high standards of stability and performance
 - Collaborate with cross-functional teams, including engineers, artists, game designers, and product managers, to ensure the delivery of high-quality gameplay experiences for players
 
-[<img src='/images/AppStore.png' width='50'>](https://apps.apple.com/us/app/wordle/id1095569891)
+[<img src='/images/AppStore.png' width='200'>](https://apps.apple.com/us/app/wordle/id1095569891)
 
-Link to Google Play Store: [Link](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
+[<img src='/images/GPC.png' width='200'>](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
 
-<p><img src='/images/W_Classic.jpg' width='100'> <img src='/images/W_Classic.jpg' width='100'><p>
+<img src='/images/W_Classic.jpg' height='500' width='300'>
+<img src='/images/W_Calendar.jpg' height='500' width='300'>
+<img src='/images/W_SW.jpg' height='500' width='300'>
+<img src='/images/W_WF.jpg' height='500' width='300'>
+<img src='/images/W_WF_Menu.jpg' height='500' width='300'>
 
 ![Daily Puzzle](/images/W_Calendar.jpg)
 ![Secret Word](/images/W_SW.jpg)
