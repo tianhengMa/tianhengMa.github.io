@@ -20,7 +20,7 @@ Here are my main responsibilities in Merge Life:
     /* Container for the horizontal scrolling bar */
     .scrolling-gallery {
         display: flex;
-        overflow-x: auto;
+        overflow-x: scroll;
         scroll-behavior: smooth;
         padding: 10px;
         background-color: #f4f4f4; /* Optional background color */
@@ -29,23 +29,30 @@ Here are my main responsibilities in Merge Life:
         gap: 10px;
     }
 
-    /* Remove scrollbar for Webkit browsers */
+    /* Style scrollbar for Webkit browsers */
     .scrolling-gallery::-webkit-scrollbar {
-        display: none;
+        height: 8px;
     }
 
-    /* For other browsers */
-    .scrolling-gallery {
-        -ms-overflow-style: none;  /* IE and Edge */
-        scrollbar-width: none;  /* Firefox */
+    /* Customize scrollbar thumb */
+    .scrolling-gallery::-webkit-scrollbar-thumb {
+        background-color: #e0e0e0; /* Lighter shade to blend in */
+        border-radius: 4px;
+        border: 1px solid #f0f0f0;;
+    }
+
+    /* Customize scrollbar track */
+    .scrolling-gallery::-webkit-scrollbar-track {
+        background-color: #f4f4f4;
     }
 
     /* Each image container */
     .image-container {
         flex: 0 0 auto;
-        width: 300px; /* Adjust width as needed */
-        height: 500px; /* Adjust height as needed */ 
+        width: 300px; 
+        height: 600px; /* Adjust width as needed */
         overflow: hidden;
+        text-align: center;
         border-radius: 8px;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
     }
@@ -53,14 +60,25 @@ Here are my main responsibilities in Merge Life:
     /* Image styling */
     .image-container img {
         width: 100%;
-        height: 100%;
+        height: 100%; /* Adjust height as needed */
         object-fit: cover;
         transition: transform 0.3s ease-in-out;
+        border-radius: 8px 8px 0 0;
     }
 
     /* Scale image on hover */
     .image-container:hover img {
         transform: scale(1.1);
+    }
+
+    /* Caption styling */
+    .caption {
+        padding: 8px;
+        font-size: 14px;
+        color: #333;
+        background-color: #fff;
+        border-radius: 0 0 8px 8px;
+        font-weight: 500;
     }
 </style>
 
@@ -68,18 +86,23 @@ Here are my main responsibilities in Merge Life:
     <!-- Replace the src with actual image URLs -->
     <div class="image-container">
         <img src="/images/MLife_MergeBoard.PNG" alt="Image 1">
+        <div class="caption">Merge Board</div>
     </div>
     <div class="image-container">
         <img src="/images/MLife_Setup.PNG" alt="Image 2">
+        <div class="caption">Character</div>
     </div>
     <div class="image-container">
         <img src="/images/MLife_Retirement_4.PNG" alt="Image 3">
+        <div class="caption">Retirement</div>
     </div>
     <div class="image-container">
         <img src="/images/MLife_Retirement_4.PNG" alt="Image 4">
+        <div class="caption">Retirement</div>
     </div>
     <div class="image-container">
         <img src="/images/MLife_Piggy.PNG" alt="Image 5">
+        <div class="caption">Piggy Bank</div>
     </div>
     <!-- Add more images as needed -->
 </div>
