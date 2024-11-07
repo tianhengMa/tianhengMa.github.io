@@ -43,8 +43,8 @@ Here are my main responsibilities in Merge Life:
     /* Each image container */
     .image-container {
         flex: 0 0 auto;
-        width: 200px; /* Adjust width as needed */
-        height: 150px; /* Adjust height as needed */
+        width: 300px; /* Adjust width as needed */
+        height: 500px; /* Adjust height as needed */ 
         overflow: hidden;
         border-radius: 8px;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
