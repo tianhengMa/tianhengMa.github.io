@@ -22,28 +22,98 @@ Main responsibilities include:
 [<img src='/images/GPC.png' width='200'>](https://play.google.com/store/apps/details?id=com.vottzapps.wordle)
 
 <style>
-div.scroll-container {
-  background-color: #333;
-  overflow: auto;
-  white-space: nowrap;
-  padding: 10px;
-}
+    /* Container for the horizontal scrolling bar */
+    .scrolling-gallery {
+        display: flex;
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        padding: 10px;
+        background-color: #f4f4f4; /* Optional background color */
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        gap: 10px;
+    }
 
-div.scroll-container img {
-  padding: 10px;
-}
+    /* Style scrollbar for Webkit browsers */
+    .scrolling-gallery::-webkit-scrollbar {
+        height: 8px;
+    }
+
+    /* Customize scrollbar thumb */
+    .scrolling-gallery::-webkit-scrollbar-thumb {
+        background-color: #e0e0e0; /* Lighter shade to blend in */
+        border-radius: 4px;
+        border: 1px solid #f0f0f0;;
+    }
+
+    /* Customize scrollbar track */
+    .scrolling-gallery::-webkit-scrollbar-track {
+        background-color: #f4f4f4;
+    }
+
+    /* Each image container */
+    .image-container {
+        flex: 0 0 auto;
+        width: 300px; 
+        height: 600px; /* Adjust width as needed */
+        overflow: hidden;
+        text-align: center;
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Image styling */
+    .image-container img {
+        width: 100%;
+        height: 100%; /* Adjust height as needed */
+        object-fit: cover;
+        transition: transform 0.3s ease-in-out;
+        border-radius: 8px 8px 0 0;
+    }
+
+    /* Scale image on hover */
+    .image-container:hover img {
+        transform: scale(1.1);
+    }
+
+    /* Caption styling */
+    .caption {
+        font-size: 14px;
+        color: #333;
+        background-color: #fff;
+        font-weight: 500;
+        padding: 4px 0;
+    }
 </style>
 
-<div class="scroll-container">
-    <img src='/images/W_Classic.jpg' height='500' width='300'>
-    <img src='/images/W_Calendar.jpg' height='500' width='300'>
-    <img src='/images/W_SW.jpg' height='500' width='300'>
-    <img src='/images/W_WF.jpg' height='500' width='300'>
-    <img src='/images/W_WF_Menu.jpg' height='500' width='300'>
+<div class="scrolling-gallery">
+    <!-- Replace the src with actual image URLs -->
+    <div class="image-container">
+        <img src="/images/W_Classic.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_Calendar.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_CO.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_Story_intro.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_Story.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_WF_Menu.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_SW.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_WF.jpg">
+    </div>
+    <div class="image-container">
+        <img src="/images/W_Together.jpg">
+    </div>
+    <!-- Add more images as needed -->
 </div>
-
-
-![Daily Puzzle](/images/W_Calendar.jpg)
-![Secret Word](/images/W_SW.jpg)
-![Word Fever](/images/W_WF.jpg)
-![WORDLE! Together](/images/W_WF_Menu.jpg)

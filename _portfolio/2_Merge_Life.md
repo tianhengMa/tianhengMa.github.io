@@ -73,12 +73,11 @@ Here are my main responsibilities in Merge Life:
 
     /* Caption styling */
     .caption {
-        padding: 8px;
         font-size: 14px;
         color: #333;
         background-color: #fff;
-        border-radius: 0 0 8px 8px;
         font-weight: 500;
+        padding: 4px 0;
     }
 </style>
 
@@ -93,22 +92,24 @@ Here are my main responsibilities in Merge Life:
         <div class="caption">Character</div>
     </div>
     <div class="image-container">
-        <img src="/images/MLife_Retirement_4.PNG" alt="Image 3">
-        <div class="caption">Retirement</div>
-    </div>
-    <div class="image-container">
-        <img src="/images/MLife_Retirement_4.PNG" alt="Image 4">
-        <div class="caption">Retirement</div>
-    </div>
-    <div class="image-container">
         <img src="/images/MLife_Piggy.PNG" alt="Image 5">
         <div class="caption">Piggy Bank</div>
     </div>
+    <div class="image-container">
+        <img src="/images/MLife_Retirement_1.PNG" alt="Image 3">
+        <div class="caption">Retirement</div>
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Retirement_2.PNG" alt="Image 3">
+        <div class="caption">Retirement</div>
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Retirement_3.PNG" alt="Image 3">
+        <div class="caption">Retirement</div>
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Retirement_4.PNG" alt="Image 3">
+        <div class="caption">Retirement</div>
+    </div>
     <!-- Add more images as needed -->
 </div>
-
-
-![Merge Board](/images/MLife_MergeBoard.PNG)
-![Character](/images/MLife_Setup.PNG)
-![Retirement](/images/MLife_Retirement_4.PNG)
-![Piggy Bank](/images/MLife_Piggy.PNG)
