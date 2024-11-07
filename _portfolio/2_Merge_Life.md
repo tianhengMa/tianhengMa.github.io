@@ -16,9 +16,76 @@ Here are my main responsibilities in Merge Life:
 
 [<img src='/images/GPC.png' width='200'>](https://play.google.com/store/apps/details?id=cc.lionstudios.mergelife&hl=en_US)
 
+<style>
+    /* Container for the horizontal scrolling bar */
+    .scrolling-gallery {
+        display: flex;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        padding: 10px;
+        background-color: #f4f4f4; /* Optional background color */
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        gap: 10px;
+    }
+
+    /* Remove scrollbar for Webkit browsers */
+    .scrolling-gallery::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* For other browsers */
+    .scrolling-gallery {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+
+    /* Each image container */
+    .image-container {
+        flex: 0 0 auto;
+        width: 200px; /* Adjust width as needed */
+        height: 150px; /* Adjust height as needed */
+        overflow: hidden;
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Image styling */
+    .image-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.3s ease-in-out;
+    }
+
+    /* Scale image on hover */
+    .image-container:hover img {
+        transform: scale(1.1);
+    }
+</style>
+
+<div class="scrolling-gallery">
+    <!-- Replace the src with actual image URLs -->
+    <div class="image-container">
+        <img src="/images/MLife_MergeBoard.PNG" alt="Image 1">
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Setup.PNG" alt="Image 2">
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Retirement_4.PNG" alt="Image 3">
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Retirement_4.PNG" alt="Image 4">
+    </div>
+    <div class="image-container">
+        <img src="/images/MLife_Piggy.PNG" alt="Image 5">
+    </div>
+    <!-- Add more images as needed -->
+</div>
+
 
 ![Merge Board](/images/MLife_MergeBoard.PNG)
 ![Character](/images/MLife_Setup.PNG)
 ![Retirement](/images/MLife_Retirement_4.PNG)
 ![Piggy Bank](/images/MLife_Piggy.PNG)
-
