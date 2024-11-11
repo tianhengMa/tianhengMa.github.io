@@ -53,7 +53,7 @@ For a gameplay demonstration, watch the YouTube link below.
     .image-container {
         flex: 0 0 auto;
         width: 500px; 
-        height: 300px; /* Adjust width as needed */
+        height: 260px; /* Adjust width as needed */
         overflow: hidden;
         text-align: center;
         border-radius: 8px;
