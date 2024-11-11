@@ -1,6 +1,6 @@
 ---
 title: "Two Dots Clone"
-excerpt: "Two Dots game remake with a hexagonal grid layout. <br/><img src='/images/DOTS_1.png' height='300' width='500'>"
+excerpt: "Two Dots game remake with a hexagonal grid layout <br/><img src='/images/DOTS_1.png' height='300' width='500'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Merge Life"
-excerpt: "Merge Life is a casual mobile game where players merge items to help a character grow up, unlocking new rooms, decorations, and upgrades as they progress through life stages. <br/><img src='/images/MLife_Icon.jpg' height='300' width='300'>"
+excerpt: "Merge Life is a casual mobile game where players merge items to help a character grow up, unlocking new rooms, decorations, and upgrades as they progress through life stages <br/><img src='/images/MLife_Icon.jpg' height='300' width='300'>"
 collection: portfolio
 ---
 

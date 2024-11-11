@@ -1,6 +1,6 @@
 ---
 title: "AR Survivor.io Clone"
-excerpt: "A clone of the popular roguelike game Survivor.io set up in the AR environment<br/><img src='/images/AR_SURVIVOR_IO_CLONE_SCREENSHOT_1.png' height='300' width='500'>"
+excerpt: "A clone of the popular roguelike game Survivor.io set up in the AR environment <br/><img src='/images/AR_SURVIVOR_IO_CLONE_SCREENSHOT_1.png' height='300' width='500'>"
 collection: portfolio
 ---
 
