@@ -3,9 +3,14 @@ title: "Two Dots Clone"
 excerpt: "Two Dots game remake with a hexagonal grid layout <br/><img src='/images/DOTS_1.png' height='300' width='500'>"
 collection: portfolio
 ---
+This is a remake of the popular puzzle game Two Dots, where the goal is to clear as many dots from the grid as possible within a time limit. While this version retains many of the original features, the standout difference is the use of a hexagonal grid, offering more gameplay variation compared to the traditional rectangular grid.
 
-This was a fun project I worked on in my free time. I enjoyed playing Two Dots in 
+Key features include:
 
+- Dots of the same color clear when connected in a line
+- All dots of the same color clear when connected in a loop
+- Customizable rows and columns of the grid
+- Options to view scores and set time limits
 
 Click the link below to watch the gameplay demo
 
