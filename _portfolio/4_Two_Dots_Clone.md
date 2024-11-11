@@ -1,6 +1,6 @@
 ---
 title: "Two Dots Clone"
-excerpt: "Short description of portfolio item number 3 <br/><img src='/images/500x300.png'>"
+excerpt: "Two Dots game remake with a hexagonal grid layout. <br/><img src='/images/DOTS_1.png' height='300' width='500'>"
 collection: portfolio
 ---
 
