@@ -52,8 +52,8 @@ For a gameplay demonstration, watch the YouTube link below.
     /* Each image container */
     .image-container {
         flex: 0 0 auto;
-        width: 600px; 
-        height: 300px; /* Adjust width as needed */
+        width: 500px; 
+        height: 350px; /* Adjust width as needed */
         overflow: hidden;
         text-align: center;
         border-radius: 8px;
