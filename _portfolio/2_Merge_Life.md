@@ -6,7 +6,7 @@ collection: portfolio
 
 Merge Life is a casual mobile game where players merge items to progress through various life stages of a character. The gameplay is similar to other merge games: players combine matching items on a grid to create higher-level objects. In Merge Life, these items often represent things related to growing up, like toys, clothes, or school supplies. As players merge items, they unlock new levels and customize the character's room, decorating it with different themes, colors, and furniture.
 
-Here are my main responsibilities in Merge Life:
+Main responsibilities include:
 
 - Implemented the "Retirement" feature, enabling players to unlock pieces of a retirement mansion image by completing in-game tasks.
 - Developed the Piggy Bank feature, allowing players to accumulate gems and open the bank upon purchase, increasing the game's IAP revenue.
