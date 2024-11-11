@@ -15,7 +15,7 @@ Key features include:
 - Smooth character movement and animations
 - Gem collection mechanics and a level-up progression system
 
-For a gameplay demonstration, watch the YouTube link below.
+Click the link below to watch the gameplay demo
 
 [AR Survivor.io Clone Dev Log](https://www.youtube.com/watch?v=fI0D3IZSMkc)
 
