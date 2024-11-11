@@ -79,15 +79,15 @@ Click the link below to watch the gameplay demo
 <div class="scrolling-gallery">
     <!-- Replace the src with actual image URLs -->
     <div class="image-container">
-        <img src="/images/DOTS_1.jpeg">
+        <img src="/images/DOTS_1.png">
     </div>
     <div class="image-container">
-        <img src="/images/DOTS_2.jpeg">
+        <img src="/images/DOTS_2.png">
     </div>
     <div class="image-container">
-        <img src="/images/DOTS_3.jpeg">
+        <img src="/images/DOTS_3.png">
     </div>
     <div class="image-container">
-        <img src="/images/DOTS_4.jpeg">
+        <img src="/images/DOTS_4.png">
     </div>
 </div>
