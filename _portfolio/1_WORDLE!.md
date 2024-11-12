@@ -7,7 +7,7 @@ collection: portfolio
 WORDLE! is a fun and addictive word puzzle game featuring a variety of exciting game modes and engaging live ops events. Our game modes feature the classic endless six-guess puzzle, daily challenges, Word Fever, Secret Word, and WORDLE! with
 Friends. Our live ops events add seasonal and weekly excitement, including a Christmas Advent calendar, holiday-themed story maps, chained offers, balloon races, and crossWORDLE!
 
-Main responsibilities include:
+## Main responsibilities:
 
 - Lead the engineering team for WORDLE!, managing all major feature development and coordinating weekly release schedules to uphold high standards of stability and performance.
 - Implement new game features using Unity and C#, including live ops events and diverse game modes

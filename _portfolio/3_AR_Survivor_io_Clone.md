@@ -8,7 +8,7 @@ As a fan of rogue-like games, I enjoyed playing Survivor.io on my phone during m
 
 In my version, players can move around a dynamic playfield, automatically attack waves of spawned enemies, and collect gems to level up—similar to the original Survivor.io gameplay.
 
-Key features include:
+## Key features:
 
 - Plane detection and AR playfield creation using Unity's AR Foundation package
 - Automatic weapon targeting and basic AI-driven enemy movement

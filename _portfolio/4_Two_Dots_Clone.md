@@ -5,7 +5,7 @@ collection: portfolio
 ---
 This is a remake of the popular puzzle game Two Dots, where the goal is to clear as many dots from the grid as possible within a time limit. While this version retains many of the original features, the standout difference is the use of a hexagonal grid, offering more gameplay variation compared to the traditional rectangular grid.
 
-Key features include:
+## Key features:
 
 - Dots of the same color clear when connected in a line
 - All dots of the same color clear when connected in a loop
