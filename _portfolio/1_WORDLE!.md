@@ -11,7 +11,7 @@ Friends. Our live ops events add seasonal and weekly excitement, including a Chr
 
 - Lead the engineering team for WORDLE!, managing all major feature development and coordinating weekly release schedules to uphold high standards of stability and performance.
 - Implement new game features using Unity and C#, including live ops events and diverse game modes
-- Develop multiple live ops events using Unity Addressables and AWS for dynamic asset updates, including the highly successful chained offers event, contributing to a 10% increase in total in-app purchase revenue
+- Develop multiple live ops events using Unity Addressables and AWS for dynamic asset updates, contributing to a 15% increase in total in-app purchase revenue
 - Collaborate with cross-functional teams, including engineers, artists, game designers, and product managers, to ensure the delivery of high-quality gameplay experiences for players
 
 [<img src='/images/AppStore.png' width='200'>](https://apps.apple.com/us/app/wordle/id1095569891)
